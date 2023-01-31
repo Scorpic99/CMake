@@ -1,0 +1,3 @@
+cmake_minimum_required(VERSION 3.22)
+project(Task_2_The_project_is_more_complicated)
+add_executable(hard_project Task_2_The_project_is_more_complicated.cpp Shapes.cpp Triangle.cpp RectangularTriangle.cpp IsoscelesTriangle.cpp EquilateralTriangle.cpp Quadrilateral.cpp Square.cpp Rectangle.cpp Parallelogram.cpp Rhomb.cpp)

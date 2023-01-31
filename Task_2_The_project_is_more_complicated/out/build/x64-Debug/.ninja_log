@@ -1,0 +1,16 @@
+# ninja log v5
+2	10	0	clean	b235e613fd728f88
+23	1279	6968670965610657	CMakeFiles/hard_project.dir/Quadrilateral.cpp.obj	3308b2cfec2bdc3
+7	1282	6968670965610657	CMakeFiles/hard_project.dir/Task_2_The_project_is_more_complicated.cpp.obj	53dfba00bd9fc1b
+17	1284	6968670965630663	CMakeFiles/hard_project.dir/IsoscelesTriangle.cpp.obj	c21a76a1b71a3ebd
+33	1284	6968670965630663	CMakeFiles/hard_project.dir/Parallelogram.cpp.obj	cda725430e53dbc2
+40	1285	6968670965640668	CMakeFiles/hard_project.dir/Rhomb.cpp.obj	b52b068bd474193a
+30	1285	6968670965630663	CMakeFiles/hard_project.dir/Rectangle.cpp.obj	c22cc239916c18a7
+10	1286	6968670965630663	CMakeFiles/hard_project.dir/Shapes.cpp.obj	7449e431d7617bba
+20	1286	6968670965650674	CMakeFiles/hard_project.dir/EquilateralTriangle.cpp.obj	7269954685c94920
+26	1288	6968670965640668	CMakeFiles/hard_project.dir/Square.cpp.obj	3c99d452b606a024
+14	1288	6968670965630663	CMakeFiles/hard_project.dir/RectangularTriangle.cpp.obj	7e29b0f8da250967
+12	1288	6968670965630663	CMakeFiles/hard_project.dir/Triangle.cpp.obj	1678b49411148eac
+1288	2593	6968670977463052	hard_project.exe	c960226f72027511
+3	426	6968676246612332	CMakeFiles/hard_project.dir/Task_2_The_project_is_more_complicated.cpp.obj	53dfba00bd9fc1b
+426	773	6968676248751805	hard_project.exe	c960226f72027511
